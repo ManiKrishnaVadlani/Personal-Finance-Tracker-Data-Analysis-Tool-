@@ -1,0 +1,8 @@
+date,amount,category,description
+01-01-2025,1000,Income,Salary
+03-01-2025,-200,Expense,Grocery shopping
+05-01-2025,150,Income,Freelancing
+07-01-2025,-50,Expense,Transportation
+09-01-2025,-300,Expense,Electricity bill
+11-01-2025,500,Income,Bonus
+13-01-2025,-100,Expense,Internet bill
